@@ -12,4 +12,4 @@ Ou seja, posso possuir uma Operação 1 - com cobertura de 25% , contendo n bens
 
 E uma OPeração 2 - com cobertura de 75%, contendo n bens.
 
-![alt text](images\gara.png "Garantias sample")
+![alt text](https://github.com/lucasserain/estudos/blob/master/images/gara.png "Garantias sample")
